@@ -1,6 +1,6 @@
 {
   "name": "sn-dracula-theme",
-  "version": "0.1",
+  "version": "0.1.1",
   "main": "dist/dist.css",
   "devDependencies": {
     "grunt": "^1.0.1",
