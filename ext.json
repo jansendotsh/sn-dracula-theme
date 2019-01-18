@@ -1,8 +1,0 @@
-{
-    "identifier": "org.jansen.sn-dracula-theme",
-    "name": "Dracula",
-    "content_type": "SN|Component",
-    "area": "themes",
-    "version": "0.1.1",
-    "url": "http://localhost:8001/dist/dist.css"
-}
