@@ -7,10 +7,10 @@ metatype: json
   "name": "Dracula",
   "content_type": "SN|Component",
   "area": "themes",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "A theme based on the Dracula colorscheme.",
   "url": "https://github.com/garrettjj/sn-dracula-theme",
-  "download_url": "https://github.com/garrettjj/sn-dracula-theme/archive/beta.zip",
+  "download_url": "https://github.com/garrettjj/sn-dracula-theme/archive/dracula.zip",
   "latest_url": "https://listed.standardnotes.org/my-extension-json-link",
   "marketing_url": "https://github.com/garrettjj/sn-dracula-theme",
   "thumbnail_url": "https://draculatheme.com/assets/img/icons/eye.png"
