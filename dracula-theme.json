@@ -3,15 +3,18 @@ metatype: json
 ---
 
 {
+	"sn": {
+		"main": "dist.css"
+	},
   "identifier": "org.jansen.sn-dracula-theme",
   "name": "Dracula",
-  "content_type": "SN|Component",
+  "content_type": "SN|Theme",
   "area": "themes",
   "version": "0.5.0",
   "description": "A theme based on the Dracula colorscheme.",
   "url": "https://github.com/garrettjj/sn-dracula-theme",
   "download_url": "https://github.com/garrettjj/sn-dracula-theme/archive/dracula.zip",
-  "latest_url": "https://listed.standardnotes.org/my-extension-json-link",
+  "latest_url": "https://raw.githubusercontent.com/garrettjj/sn-dracula-theme/master/package.json",
   "marketing_url": "https://github.com/garrettjj/sn-dracula-theme",
   "thumbnail_url": "https://draculatheme.com/assets/img/icons/eye.png"
 }
