@@ -3,9 +3,6 @@ metatype: json
 ---
 
 {
-	"sn": {
-		"main": "dist.css"
-	},
   "identifier": "org.jansen.sn-dracula-theme",
   "name": "Dracula",
   "content_type": "SN|Theme",
